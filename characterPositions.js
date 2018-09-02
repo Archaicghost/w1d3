@@ -15,7 +15,7 @@ for (var i = 0; i < lowercaseString.length; i++) {
 	   }
 	 
 	   letterResult[lowercaseString[i].toString()] = array;
-	}
+ }
    return letterResult;
 
 };
